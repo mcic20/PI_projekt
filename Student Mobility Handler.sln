@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student Mobility Handler", "Student Mobility Handler\Student Mobility Handler.csproj", "{84E63F39-0DF6-4B1D-BC18-D2F8A1FBC631}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBLayer", "DBLayer\DBLayer.csproj", "{CD6F40B1-589D-4F34-9F89-C34DB82CE407}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StudentMobilityHandlerSetup", "StudentMobilityHandlerSetup\StudentMobilityHandlerSetup.vdproj", "{EB8A2103-6AB8-4DCF-ABC7-DEB5AF2FB177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E63F39-0DF6-4B1D-BC18-D2F8A1FBC631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E63F39-0DF6-4B1D-BC18-D2F8A1FBC631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E63F39-0DF6-4B1D-BC18-D2F8A1FBC631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E63F39-0DF6-4B1D-BC18-D2F8A1FBC631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6F40B1-589D-4F34-9F89-C34DB82CE407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6F40B1-589D-4F34-9F89-C34DB82CE407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6F40B1-589D-4F34-9F89-C34DB82CE407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6F40B1-589D-4F34-9F89-C34DB82CE407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8A2103-6AB8-4DCF-ABC7-DEB5AF2FB177}.Debug|Any CPU.ActiveCfg = Debug
+		{EB8A2103-6AB8-4DCF-ABC7-DEB5AF2FB177}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB0FAA1-4F61-4E47-B6F5-1F998413A01D}
+	EndGlobalSection
+EndGlobal
