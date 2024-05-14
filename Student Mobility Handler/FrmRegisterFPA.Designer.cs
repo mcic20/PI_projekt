@@ -75,7 +75,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(529, 185);
+            this.label12.Location = new System.Drawing.Point(529, 193);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(53, 16);
             this.label12.TabIndex = 44;
@@ -221,7 +221,7 @@
             // 
             // txtFaculty
             // 
-            this.txtFaculty.Location = new System.Drawing.Point(532, 204);
+            this.txtFaculty.Location = new System.Drawing.Point(532, 212);
             this.txtFaculty.Name = "txtFaculty";
             this.txtFaculty.Size = new System.Drawing.Size(136, 22);
             this.txtFaculty.TabIndex = 48;
