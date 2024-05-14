@@ -6,4 +6,4 @@ A software for handling ERASMUS students would reduce the complexity of the proc
 ## Specifikacija projekta
 The software must have a data input function and a corresponding view function. The software must also have a function to accept or reject forms, as well as a function to send email notifications when the form status changes while it is being processed. There may be three different roles with different access levels, so a login function is required for the system. It is necessary to have a function to display statistics and create reports based on statistics or other data in the system.
 
-#### Difference between this version and the original is that this version runs on my private server so it is testable as long as I host the server. If you want to test it, message me so I can whitelist you on servers firewall.
+#### Difference between this version and the original is that this version runs on my private server so it is testable as long as I host the server.
